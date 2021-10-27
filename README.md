@@ -1,14 +1,14 @@
 # Surfs Up Project
 
 ## Overview of analysis
-An initial analysis of the weather trends for the clients prefered location of new surf and ice cream shop was delivered.  The client was pleased with the analysis, but has asked for more information about temperature trends before opening the surf shop. Specifically, the client wants temperature data for the months of Decemeber and June in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
+An initial analysis of the weather trends for the client's prefered location of a new surf and ice cream shop was delivered.  The client was pleased with the analysis, but has asked for more information about temperature trends before opening the surf shop. Specifically, the client wants temperature data for the months of Decemeber and June in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
 ## Resources
-- Data Source: election_results.csv
-- Software: Anaconda virtual environment Python Jupyter notebook 
+- Data Source: hawaii.sqlite
+- Software: Anaconda virtual environment Python Jupyter notebook SQlite
 
 ## Results:
-A statistical analysis was preformed on the temperature data for the months of Decemeber and June that is shown below.
+A statistical analysis was performed on the temperature data for the months of Decemeber and June that is shown below.
 ### Dec and June temperature statistics:
 
 ![Alt Text](https://github.com/syoder821/surfs_up/blob/main/Temp_stats.png)
